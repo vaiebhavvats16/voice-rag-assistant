@@ -11,7 +11,7 @@
 
 ## 🔗 Live Demo
 
-**Frontend:** [voice-rag.vercel.app](https://voice-rag.vercel.app)
+**Frontend:** [voice-rag-assistant-orcin.vercel.app/](https://voice-rag-assistant-orcin.vercel.app/)
 
 > ⚠️ The hosted demo uses Groq API for inference. The local version runs **entirely offline** — no API calls after setup. See [Running Locally](#-getting-started) for the full experience.
 
